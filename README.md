@@ -58,10 +58,10 @@
 ###
 
 <br clear="both">
-
+<img align="right" height="150" src="footer.gif"/>
 <h3 align="left">Contacts</h3>
 <hr align="left">
-<img align="right" height="150" src="footer.gif"/>
+
 
 ###
 
