@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">&nbsp;&nbsp;&nbsp;Web Front end developer</h2>
+<h2 align="left">Web Front end developer</h2>
 
 ###
 
@@ -86,5 +86,7 @@
 </div>
 
 ###
+
 <img src="https://raw.githubusercontent.com/ZXmohamed/ZXmohamed/output/snake.svg" alt="Snake animation" />
+
 ###
