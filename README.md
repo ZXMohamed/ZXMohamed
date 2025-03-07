@@ -13,7 +13,7 @@
 ###
 
 <h3 align="left">Web Front end developer</h3>
-<hr align="left" size="1px">
+<hr align="left" height="1px">
 <h4 align="left">I’m web Front end developer, I work quality and professionally with programing tools and I have work skills like problem solving, search and team work as I made more projects with different teams.<br> My future goal is to learn back end development to be full stack developer.<br> Constantly seeking opportunities to learn and stay up-to-date with the latest front-end technologies.</h4>
 
 <div align="right">
