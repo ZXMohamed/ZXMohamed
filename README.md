@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="380" src="bg2.gif" />
+  <img height="380" src="bg.gif" />
 </div>
 
 <br clear="both">
