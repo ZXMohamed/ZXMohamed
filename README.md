@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="450" src="bg.gif" />
+  <img height="400" src="bg.gif" />
 </div>
 
 <br clear="both">
@@ -41,9 +41,15 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="40" />
+  <img src="https://reactrouter.com/favicon-dark.png" height="60" alt="react router logo"  />
+   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
   <img width="40" />
+  <img src="https://reactstrap.github.io/logo-white.svg" height="60" alt="react strap logo"  />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
+  <img width="40" />
+  <img src="https://www.json.org/favicon.png" height="60" alt="json logo"  />
 </div>
 
 
