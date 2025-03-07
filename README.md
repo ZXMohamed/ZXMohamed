@@ -14,11 +14,7 @@
 
 <h2 align="left">Web Front end developer</h2>
 
-###
-
 <h4 align="left">I’m web Front end developer, I work quality and professionally with programing tools and I have work skills like problem solving, search and team work as I made more projects with different teams.<br> My future goal is to learn back end development to be full stack developer.<br> Constantly seeking opportunities to learn and stay up-to-date with the latest front-end technologies.</h4>
-
-<br clear="both">
 
 <div align="right">
   <a href="https://www.linkedin.com/in/mohamed-kamal-10465220a/" target="_blank">
