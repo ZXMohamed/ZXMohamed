@@ -11,8 +11,7 @@
 <img align="left" height="200" src="side.jpg"  />
 
 <h3 align="left">Web Front end developer</h3>
-<hr align="left" size="1">
----
+<hr align="left">
 <h4 align="left">I’m web Front end developer, I work quality and professionally with programing tools and I have work skills like problem solving, search and team work as I made more projects with different teams.<br> My future goal is to learn back end development to be full stack developer.<br> Constantly seeking opportunities to learn and stay up-to-date with the latest front-end technologies.</h4>
 
 <div align="right">
@@ -60,8 +59,8 @@
 
 <br clear="both">
 
-<h2 align="left">Contacts</h2>
-
+<h3 align="left">Contacts</h3>
+<hr>
 <img align="right" height="150" src="footer.gif"/>
 
 ###
