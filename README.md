@@ -60,7 +60,7 @@
 <br clear="both">
 
 <h3 align="left">Contacts</h3>
-<hr>
+<hr align="left">
 <img align="right" height="150" src="footer.gif"/>
 
 ###
