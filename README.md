@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'am Mohamed Kamal  #💻</h1>
+![image](https://github.com/user-attachments/assets/408c6da0-faf4-443a-b4c9-16f6722bba13)<h1 align="left">Hey 👋 I'am Mohamed Kamal  #💻</h1>
 
 ###
 
@@ -12,7 +12,11 @@
 
 <h3 align="left" style="margin:0px !important;">Web Front end developer</h3>
 <hr align="left" height="1" style="margin:0px !important;">
-<h4 align="left">I’m web Front end developer, I work quality and professionally with programing tools and I have work skills like problem solving, search and team work as I made more projects with different teams.<br> My future goal is to learn back end development to be full stack developer.<br> Constantly seeking opportunities to learn and stay up-to-date with the latest front-end technologies.</h4>
+<h4 align="left">
+  I’m web Front-end developer, I work quality and professionally with programing tools and I have work skills like problem solving and teamwork.
+My future goal is to learn back-end development to be full stack developer.
+constantly seeking opportunities to learn and stay up-to-date with the latest front-end technologies.
+</h4>
 
 <div align="right">
   <a href="https://www.linkedin.com/in/mohamed-kamal-10465220a/" target="_blank">
