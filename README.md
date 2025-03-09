@@ -61,6 +61,9 @@ constantly seeking opportunities to learn and stay up-to-date with the latest fr
 
 ###
 
+<iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://media.licdn.com/embeds/native-document.html?li_theme=light" title="Document player for: CV" class="document-s-container__document-element document-s-container__document-element--loaded" tabindex="0" allowfullscreen="">
+      </iframe>
+      
 <br clear="both">
 <img align="right" height="150" src="footer.gif"/>
 <h3 align="left">Contacts</h3>
