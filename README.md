@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/408c6da0-faf4-443a-b4c9-16f6722bba13)<h1 align="left">Hey 👋 I'am Mohamed Kamal  #💻</h1>
+<h1 align="left">Hey 👋 I'am Mohamed Kamal  #💻</h1>
 
 ###
 
