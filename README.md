@@ -63,7 +63,7 @@ constantly seeking opportunities to learn and stay up-to-date with the latest fr
       
 <br clear="both">
 <h3 align="left">Contacts</h3>
-<hr align="left" width="600">
+<hr align="left" width="400">
 <img align="right" height="150" src="footer.gif"/>
 
 
