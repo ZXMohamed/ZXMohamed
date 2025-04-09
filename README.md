@@ -55,7 +55,11 @@ constantly seeking opportunities to learn and stay up-to-date with the latest fr
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="25" />
-  <img src="https://www.json.org/favicon.png" height="60" alt="json logo"  />
+  <img src="https://www.json.org/favicon.png" height="60" alt="json logo"  /><br><br>
+<!--   <img width="25" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="60" alt="typescript logo"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
 </div>
 
 
