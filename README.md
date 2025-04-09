@@ -73,7 +73,7 @@ constantly seeking opportunities to learn and stay up-to-date with the latest fr
 
 ###
 
-<h4 align="left">Phone number 📱: 01011038054</h4>
+<h4 align="left">Phone number 📱: +0201011038054</h4>
 
 ###
 
