@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="side.jpg"  />
+<!--<img align="left" height="200" src="side.jpg"  />-->
 
 <h3 align="left" style="margin:0px !important;">Web Front end developer</h3>
 <hr align="left" height="1" style="margin:0px !important;">
