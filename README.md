@@ -15,7 +15,6 @@
 <h4 align="left">
   I’m web Front-end developer, graduated with bachelor's of Computer Science, I work quality and professionally with React.js / ts  and react echo system (React Router, Redux, MUI, Reactstrap and more ), RESTful API and Solid principles, I have work skills like problem solving and teamwork, I have worked as an react instructor.
   I have basic understanding about back-end (PHP, Node.js, Express.js, Sql, Mango db), Full stack applications, Design patterns and Agile workflow.
-  My future goal is to learn back-end development to be Full stack developer.
 </h4>
 
 <div align="right">
