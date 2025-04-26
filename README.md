@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 I'am Mohamed Kamal  #💻
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1J_k55N5AP9dbAxy2nGlgRixzR_n5OTUG/view?usp=sharing" align="right" target="_blank">Open Resume / CV</a>
+<a href="https://drive.google.com/file/d/1J_k55N5AP9dbAxy2nGlgRixzR_n5OTUG/view?usp=sharing" target="_blank">Resume / CV</a>
 </h1> 
 
 ###
