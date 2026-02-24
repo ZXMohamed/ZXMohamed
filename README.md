@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <img height="580" src="bg.gif" />
+  <img height="580" wodth="100%" src="bg.gif" />
 </div>
 
 <br clear="both">
